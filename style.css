@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.h1{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 2.5%;
+    font-size: 300%;
+}
+#add{
+    margin: 5%;
+    text-align: center;
+    height: 50%;
+    font-size: 200%;
+}
+#add input{
+    margin-right: 2%;
+    width: 50%;
+    padding: 1%;
+    border: 2px solid blue;
+    border-radius: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+}
+#add button{
+width: 10%;
+padding: 1%;
+border: 2px solid blue;
+border-radius: 10px;
+font-size: 120%;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+background-color:blue;
+}
+#content .li{
+    display: flex;
+    /* margin: auto; */
+    /* justify-content: space-around; */
+    align-items: center;
+    margin-top: 1%;
+    font-size: 200%;
+}
+#content .div{
+    width:60%;
+}
+#content{
+    text-align: center;
+}
+#content .li button{
+color: white;
+background-color: blue;
+font-size: 70%;
+border-radius: 5px;
+padding: 1%;
+margin-left: 1%;
+}
+#content .li {
+    display: flex;
+}
+h2{
+    text-align: center;
+    font-size: 200%;
+}
+#all{
+    text-align: center;
+    margin: 2%;
+}
+#all button{
+    padding: 1%;
+    border: 2px solid white;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+    font-size: 200%;
+}
